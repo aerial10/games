@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+body{
+    background-color: black;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.assasin{
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+ 
+}
+.hitman{
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.gta5{
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+    
+}
+.hitcard{
+    width: 10rem;
+    height: 16rem;
+    position: relative;
+    top: 20px;
+    right: 120px;
+
+}
+.hith2{
+    font-size: 1rem;
+    color: #fff;
+    position: relative;
+    right: 0px;
+    top: 180px;
+    display: inline;
+
+}
+.btn22{
+    position: relative;
+    top: 230px;
+    left: 90px;
+}
+.assassin{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    bottom: 0px;
+    top: 20px;
+    right: 360px;
+   
+}
+.ass1{
+    display:inline;
+    position: relative;
+    right: 170px;
+    top: 178px;
+    font-size: 1rem;
+    color: #fff;
+    
+}
+.assbt{
+    position: relative;
+    left: 350px;
+    bottom: 350px;
+    display: block;
+}
+.btn1{
+    position: relative;
+    top: 230px;
+    right: 30px;
+
+    
+    
+}
+.rdr2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    right: 600px;
+    top: 20px;
+    display: inline;
+    
+ 
+}
+.rdr1{
+    display:inline;
+    position: relative;
+    right: 410px;
+    top:178px;
+    font-size: 1rem;
+    color: #fff;
+    
+}
+
+.btn2{
+    position: relative;
+    top: 230px;
+    right: 280px;
+}
+.gta51{
+    display:inline;
+    position: relative;
+    right: 550px;
+    top:178px;
+    font-size: 1rem;
+    color: #fff;
+}
+.gta52{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    left: 800px;
+    bottom: 235px;
+    display: inline; 
+}
+.btngt{
+    position: relative;
+    top: 230px;
+    right: 480px;
+}
+.cyberpunk1{
+    display:inline;
+    position: relative;
+    left: 20.5cm;
+    bottom: 80px;
+    font-size: 1rem;
+    color: #fff;
+}
+.cyberpunk2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    left: 620px;
+    bottom: 235px;
+    display: inline; 
+}
+.btn2077{
+    position: relative;
+    bottom: 0.7cm;
+    left: 23.5cm;
+}
+.btnam{
+    position: relative;
+    bottom: 0.7cm;
+    left: 18.8cm;
+}
+.among1{
+    display:inline;
+    position: relative;
+    left: 16cm;
+    bottom: 80px;
+    font-size: 1rem;
+    color: #fff;
+}
+.among2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    left: 470px;
+    bottom: 235px;
+    display: inline; 
+}
+.btnwar{
+    position: relative;
+    right: 25cm;
+    top: 9.5cm;
+}
+.warzone1{
+    display:inline;
+    position: relative;
+    right: 28cm;
+    top: 8.5cm;
+    font-size: 1rem;
+    color: #fff;
+}
+.warzone2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    right: 1240px;
+    top: 160px;
+    display: inline; 
+}
+.btnfor{
+    position: relative;
+    right: 3.6cm;
+    top:2.7cm;
+}
+.fortnite1{
+    display:inline;
+    position: relative;
+    right: 6cm;
+    top:1.6cm;
+    font-size: 1rem;
+    color: #fff;
+}
+.fortnite2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    right: 9cm;
+    bottom:100px;
+    display: inline; 
+}
+.minecraft1{
+    display:inline;
+    position: relative;
+    right: 8.3cm;
+    top:1.6cm;
+    font-size: 1rem;
+    color: #fff;
+}
+.minecraft2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    right: 12cm;
+    bottom:100px;
+    display: inline; 
+}
+.btnmin{
+    position: relative;
+    right: 6cm;
+    top:2.7cm;
+}
+.watch1{
+    display:inline;
+    position: relative;
+    right: 12cm;
+    top:1.6cm;
+    font-size: 1rem;
+    color: #fff;
+}
+.watch2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    left: 800px;
+    bottom:350px;
+    display: inline;
+              
+}
+.btnwt{
+    position: relative;
+    right: 9.5cm;
+    top:2.7cm;
+}
+.val1{
+    display:inline;
+    position: relative;
+    left: 20cm;
+    bottom:5.3cm;
+    font-size: 1rem;
+    color: #fff;
+}
+.val2{
+    width: 195px;
+    height: 261px;
+    position: relative;
+    left: 560px;
+    bottom:350px;
+    display: inline;
+}
+.btnval{
+    position: relative;
+    left: 24cm;
+    bottom:4cm;
+}
+@media(max-width:768px){
+    .hitcard{
+        width: 10rem;
+        height: 16rem;
+        position: relative;
+        top: 20px;
+        right: 100px;
+    }
+    .assassin{
+        width: 195px;
+        height: 261px;
+        position: relative;
+        top:200px;
+        left:20rem;
+       
+    }
+}
